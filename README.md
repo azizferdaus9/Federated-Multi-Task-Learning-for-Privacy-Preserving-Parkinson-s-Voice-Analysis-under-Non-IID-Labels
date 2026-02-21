@@ -23,7 +23,7 @@ The system trains a **shared encoder** with **task-specific heads** (classificat
 - OS: Windows / Linux / macOS (tested conceptually on Windows + Linux)
 - (Optional) GPU for faster training
 
-### Create environment
+### Create environment and Run
 
 #### Option A: venv
 ```bash
